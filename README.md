@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
