@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
