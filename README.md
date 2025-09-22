@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -83,5 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0061-rotate-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
