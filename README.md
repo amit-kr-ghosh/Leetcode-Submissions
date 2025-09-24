@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
