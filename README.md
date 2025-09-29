@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0061-rotate-list) |
+| [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -136,8 +138,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
