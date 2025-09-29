@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0742-to-lower-case](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
