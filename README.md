@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1292-immediate-food-delivery-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1801-average-time-of-process-per-machine) |
 ## Sliding Window
 |  |
