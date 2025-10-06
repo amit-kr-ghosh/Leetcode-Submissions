@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
