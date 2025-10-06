@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
