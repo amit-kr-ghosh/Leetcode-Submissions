@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
