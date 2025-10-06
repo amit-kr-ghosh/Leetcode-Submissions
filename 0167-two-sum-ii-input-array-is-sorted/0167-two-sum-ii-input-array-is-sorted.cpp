@@ -7,7 +7,8 @@ public:
         int left = 0;
         int right = numbers.size() - 1;
 
-        while (left < right) {
+        while (left < right) 
+        {
             int sum = numbers[left] + numbers[right];
 
             if (sum == target)
@@ -17,7 +18,6 @@ public:
             else
                 right--;
         }
-
         return {}; // just in case
     }
 };
