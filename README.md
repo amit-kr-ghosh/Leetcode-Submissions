@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2169-simple-bank-system](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0742-to-lower-case](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0742-to-lower-case) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Memoization
 |  |
 | ------- |
