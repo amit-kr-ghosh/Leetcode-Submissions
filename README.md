@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Database
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
