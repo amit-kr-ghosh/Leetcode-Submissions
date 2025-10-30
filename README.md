@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0577-employee-bonus) |
 | [1258-article-views-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1292-immediate-food-delivery-ii) |
