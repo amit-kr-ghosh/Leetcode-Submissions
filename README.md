@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Linked List
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
