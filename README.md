@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
