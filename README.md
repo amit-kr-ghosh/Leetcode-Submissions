@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
