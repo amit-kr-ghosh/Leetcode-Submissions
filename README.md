@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Backtracking
 |  |
 | ------- |
