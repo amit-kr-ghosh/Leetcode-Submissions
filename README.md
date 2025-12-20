@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0944-delete-columns-to-make-sorted](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0742-to-lower-case](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0742-to-lower-case) |
+| [0944-delete-columns-to-make-sorted](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sorting
