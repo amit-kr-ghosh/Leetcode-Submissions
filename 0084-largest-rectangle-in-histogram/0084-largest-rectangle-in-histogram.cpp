@@ -6,39 +6,22 @@ public:
         int width;
         int height;
 
-
-        vector<int> nse(n) , pse(n);
         stack <int> st;
 
-        for(int i = 0;i<n;i++){
+        for(int i = 0;i<=n;i++){
 
-            while(!st.empty()&& heights[i]<=heights[st.top()]){
+            int curH = (i==n)?0:heights[i];
+
+            while(!st.empty()&& curH<heights[st.top()]){
+                int h = heights[st.top()];
                 st.pop();
+
+                int w = st.empty()?i:i - st.top() -1;
+
+                maxarea = max(maxarea , h *w);
             }
-            pse[i] = st.empty()? -1:st.top();
 
             st.push(i);
-        }
-
-        while(!st.empty()){
-            st.pop();
-        }
-
-        for(int i = n-1;i>=0;i--){
-
-            while(!st.empty()&& heights[i]<=heights[st.top()]){
-                st.pop();
-            }
-            nse[i] = st.empty()? n:st.top();
-
-            st.push(i);
-        }
-
-
-        for(int  i = 0;i<n;i++){
-            height = heights[i];
-            width = nse[i] - pse[i] -1;
-            maxarea = max(maxarea,height*width);
         }
 
         return maxarea;
