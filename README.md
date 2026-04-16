@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2169-simple-bank-system](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -146,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -278,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Queue
 |  |
 | ------- |
