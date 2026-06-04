@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
