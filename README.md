@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
+| [0516-longest-palindromic-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0742-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
