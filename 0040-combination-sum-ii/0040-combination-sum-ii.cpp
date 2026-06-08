@@ -9,35 +9,28 @@ public:
         return ans;
     }
 
-
-
     void combsum2(int i , vector<int> & arr , vector<int> & temp,vector<vector<int>> &ans,int target){
-        if(target==0){
+
+        if(target == 0){
             ans.push_back(temp);
             return;
         }
-        if(target <0){
-            return;
-        }
-        if(i == arr.size()){
-            return;
-        }
 
-        //include current
-        temp.push_back(arr[i]);
-        combsum2(i+1,arr,temp,ans,target-arr[i]);
-        
+        for(int j = i;j<arr.size();j++){
+            if(j>i && arr[j] == arr[j-1]){
+                continue;
+            }
 
-        //exclude cuurent and skip duplicate
-        temp.pop_back();
+            if(target<0){
+                break;
+            }
 
-        int j = i;
-        while(j+1<arr.size() && arr[j] == arr[j+1]){
-            j++;
-        }
-        combsum2(j+1,arr,temp,ans,target);
+            //include
+            temp.push_back(arr[j]);
+            combsum2(j  +1,arr,temp,ans,target-arr[j]);
 
-        
+            //pop
+            temp.pop_back();
+        }        
     }
-
 };
