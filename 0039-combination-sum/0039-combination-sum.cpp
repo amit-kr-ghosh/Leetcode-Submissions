@@ -9,7 +9,7 @@ public:
         return ans;
     }
 
-        void combsum(int i , int tar , vector<int> & temp, vector<int> &arr , vector<vector<int>> & ans){
+        void combsum(int id , int tar , vector<int> & temp, vector<int> &arr , vector<vector<int>> & ans){
 
             if(tar == 0){
                 ans.push_back(temp);
@@ -19,10 +19,8 @@ public:
             if(tar<0){
                 return;
             }
-            if(i == arr.size()){
-                return;
-            }
-
+        
+        for(int i = id;i<arr.size();i++){
 
             //include
             temp.push_back(arr[i]);
@@ -30,7 +28,7 @@ public:
 
             //exclude
             temp.pop_back();
-            combsum(i+1,tar,temp,arr,ans);
+        }
         }
     
 };
