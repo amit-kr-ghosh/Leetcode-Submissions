@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0078-subsets) |
