@@ -1,26 +1,33 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> curr;
-
-    void backtrack(int start, int n, int k) {
-        if (curr.size() == k) {
-            ans.push_back(curr);
-            return;
-        }
-
-        for (int i = start; i <= n; i++) {
-            curr.push_back(i);
-            backtrack(i + 1, n, k);
-            curr.pop_back();
-        }
-    }
-
     vector<vector<int>> combine(int n, int k) {
-        backtrack(1, n, k);
+        vector<vector<int>> ans;
+        vector<int> temp;
+
+        comb(1,k,temp,ans,n);
+
         return ans;
+
     }
+
+
+        void comb(int idx , int k , vector<int> &temp, vector<vector<int>> &ans ,int n){
+            if(k==0){
+                ans.push_back(temp);
+                return;
+            }
+
+            for(int i = idx ;i<n+1;i++){
+                //include
+                temp.push_back(i);
+
+                //call next
+                comb(i+1,k-1,temp,ans,n);
+
+                //exclude
+                temp.pop_back();
+            }
+        }
+        
+    
 };
