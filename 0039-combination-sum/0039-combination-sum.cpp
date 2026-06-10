@@ -1,34 +1,37 @@
 class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        
+
         vector<vector<int>> ans;
         vector<int> temp;
-        combsum(0,target,temp,candidates,ans);
+        comb(0,target,temp,ans,candidates);
 
-        return ans;
+        return ans; 
+        
     }
 
-        void combsum(int id , int tar , vector<int> & temp, vector<int> &arr , vector<vector<int>> & ans){
+   void comb(int id, int tar, vector<int> & temp , vector<vector<int>> & ans , vector<int> &nums){
 
-            if(tar == 0){
-                ans.push_back(temp);
-                return;
-            }
+        if(tar == 0){
+            ans.push_back(temp);
+            return;
+        }
+        if(tar<0){
+            return ;
+        }
 
-            if(tar<0){
-                return;
-            }
-        
-        for(int i = id;i<arr.size();i++){
 
+        for(int i = id;i<nums.size();i++){
             //include
-            temp.push_back(arr[i]);
-            combsum(i,tar-arr[i],temp,arr,ans);
+            temp.push_back(nums[i]);
+            //call
+            comb(i,tar-nums[i],temp,ans,nums);
 
-            //exclude
+            //excude
             temp.pop_back();
+           
         }
-        }
-    
+
+
+    }
 };
