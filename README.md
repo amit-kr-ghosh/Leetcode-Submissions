@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [2169-simple-bank-system](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2169-simple-bank-system) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
