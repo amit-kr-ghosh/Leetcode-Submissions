@@ -16,12 +16,14 @@ public:
             ans.push_back(temp);
             return;
         }
-        if(tar<0){
-            return ;
-        }
+        
 
 
         for(int i = id;i<nums.size();i++){
+            if(tar<0){
+            break; ;
+        }
+
             //include
             temp.push_back(nums[i]);
             //call
