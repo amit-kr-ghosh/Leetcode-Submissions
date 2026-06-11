@@ -1,36 +1,41 @@
 class Solution {
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+
         vector<vector<int>> ans;
         vector<int> temp;
+
         sort(candidates.begin(),candidates.end());
-        combsum2(0,candidates,temp,ans,target);
+        comb2(0,target,temp,ans,candidates);
 
         return ans;
     }
 
-    void combsum2(int i , vector<int> & arr , vector<int> & temp,vector<vector<int>> &ans,int target){
-
-        if(target == 0){
+    void comb2(int id ,int tar , vector<int> & temp  , vector<vector<int>> &ans , vector<int> &nums){
+        if(tar == 0){
             ans.push_back(temp);
             return;
         }
 
-        for(int j = i;j<arr.size();j++){
-            if(j>i && arr[j] == arr[j-1]){
-                continue;
-            }
+        if(tar<0){
+            return;
+        }
+        if(id == nums.size()){
+            return;
+        }
 
-            if(target<0){
-                break;
-            }
+        //include
+        temp.push_back(nums[id]);
+        comb2(id+1,tar-nums[id],temp,ans,nums);
 
-            //include
-            temp.push_back(arr[j]);
-            combsum2(j  +1,arr,temp,ans,target-arr[j]);
+        //skip same
+        int i = id;
+        while(i+1<nums.size()  && nums[i] == nums[i+1]){
+            i++;
+        }
+        temp.pop_back();
+        comb2(i+1,tar,temp,ans,nums);
 
-            //pop
-            temp.pop_back();
-        }        
+
     }
 };
