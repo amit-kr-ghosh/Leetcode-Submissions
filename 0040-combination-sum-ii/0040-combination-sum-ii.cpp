@@ -12,6 +12,7 @@ public:
     }
 
     void comb2(int id ,int tar , vector<int> & temp  , vector<vector<int>> &ans , vector<int> &nums){
+
         if(tar == 0){
             ans.push_back(temp);
             return;
@@ -20,21 +21,20 @@ public:
         if(tar<0){
             return;
         }
-        if(id == nums.size()){
-            return;
+
+        for(int i = id;i<nums.size();i++){   
+
+            //include                         
+              temp.push_back(nums[i]);
+              comb2(i+1,tar-nums[i],temp,ans,nums);
+
+            //skip same
+            while(i+1<nums.size()  && nums[i] == nums[i+1]){
+                i++;
+            }
+            temp.pop_back();
         }
 
-        //include
-        temp.push_back(nums[id]);
-        comb2(id+1,tar-nums[id],temp,ans,nums);
-
-        //skip same
-        int i = id;
-        while(i+1<nums.size()  && nums[i] == nums[i+1]){
-            i++;
-        }
-        temp.pop_back();
-        comb2(i+1,tar,temp,ans,nums);
 
 
     }
