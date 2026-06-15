@@ -3,38 +3,40 @@ public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> temp;
-        vector<int> vis(nums.size(),0);
+    
+        unordered_map<int,int> freq;
+        for(int i = 0;i<nums.size();i++){
 
-        sort(nums.begin(),nums.end());
+                freq[nums[i]]++;
 
-        perm2(temp , vis ,  nums ,ans);
+        }
+
+
+        perm2(temp , freq ,  nums ,ans);
         return ans;
         
     }
 
-    void perm2(vector<int> & temp, vector<int> & vis, vector<int> &nums , vector<vector<int>>& ans){
+    void perm2(vector<int> & temp, unordered_map<int,int> & freq, vector<int> &nums , vector<vector<int>>& ans){
+
         if(temp.size() == nums.size()){
             ans.push_back(temp);
             return;
         }
         
-        for(int  i = 0 ; i<nums.size();i++){
+        for(auto &i : freq){
 
-            if(vis[i] == 1 ){
+            if(i.second == 0){
                 continue;
             }
 
-            if(i>0 && nums[i] == nums[i-1]&& !vis[i-1]){
-                continue;
-            }
+            temp.push_back(i.first);
+            i.second--;
 
-            temp.push_back(nums[i]);
-            vis[i] = 1;
-
-            perm2(temp,vis,nums,ans);
+            perm2(temp,freq,nums,ans);
                         
             temp.pop_back();
-            vis[i] = 0;
+            i.second++;
 
         }
     }
