@@ -10,24 +10,19 @@ public:
     }
 
     void sub2(int id , vector<int> &nums, vector<int> &temp , vector<vector<int>> &ans){
-        if(id == nums.size()){
-            ans.push_back(temp);
-            return;
-        }
 
-        //include
+        ans.push_back(temp);
 
-        temp.push_back(nums[id]);
-        sub2(id+1,nums,temp,ans);
+            for(int i = id ; i<nums.size();i++){
+                if(i>id && nums[i] == nums[i-1]){
+                    continue;
+                }
+            temp.push_back(nums[i]);
+            sub2(i+1,nums,temp,ans);
+            temp.pop_back();
 
+            }
 
-        //skip duplicate
-        int i = id+1;
-        temp.pop_back();
-        while(i<nums.size() &&nums[id] == nums[i]){
-            i++;
-        }
-        sub2(i ,nums,temp , ans);
 
     }
 };
