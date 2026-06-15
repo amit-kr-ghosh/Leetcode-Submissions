@@ -2,35 +2,39 @@ class Solution {
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;
-      
+        vector<int> temp;
+        vector<int> vis(nums.size(),0);
 
         sort(nums.begin(),nums.end());
 
-        perm2(0 , nums ,ans);
+        perm2(temp , vis ,  nums ,ans);
         return ans;
         
     }
 
-    void perm2(int id , vector<int> &nums  , vector<vector<int>> &ans){
-        if(id == nums.size()){
-            ans.push_back(nums);
+    void perm2(vector<int> & temp, vector<int> & vis, vector<int> &nums , vector<vector<int>>& ans){
+        if(temp.size() == nums.size()){
+            ans.push_back(temp);
             return;
         }
-
         
-        unordered_set<int> st;
-        for(int  i = id ; i<nums.size();i++){
-            if(st.count(nums[i])){
+        for(int  i = 0 ; i<nums.size();i++){
+
+            if(vis[i] == 1 ){
                 continue;
             }
 
-            st.insert(nums[i]);
-            swap(nums[i],nums[id]);
-            perm2(id+1,nums,ans);
-            swap(nums[i],nums[id]);
+            if(i>0 && nums[i] == nums[i-1]&& !vis[i-1]){
+                continue;
+            }
 
-           
+            temp.push_back(nums[i]);
+            vis[i] = 1;
 
+            perm2(temp,vis,nums,ans);
+                        
+            temp.pop_back();
+            vis[i] = 0;
 
         }
     }
