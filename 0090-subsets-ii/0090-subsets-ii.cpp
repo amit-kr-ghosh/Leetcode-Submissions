@@ -1,31 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<int> temp;
         vector<vector<int>> ans;
+        vector<int> temp;
         sort(nums.begin(),nums.end());
-        subsets(0 , nums ,temp,ans);
+
+        sub2(0,nums,temp,ans);
         return ans;
-        
     }
-     void subsets(int i ,vector<int> & arr,vector<int> & temp , vector<vector<int>> &ans){
-        if(i== arr.size()){
+
+    void sub2(int id , vector<int> &nums, vector<int> &temp , vector<vector<int>> &ans){
+        if(id == nums.size()){
             ans.push_back(temp);
             return;
         }
 
         //include
-        temp.push_back(arr[i]);
-        subsets(i+1,arr,temp,ans);
 
-        //exclude current and skip duplicate
+        temp.push_back(nums[id]);
+        sub2(id+1,nums,temp,ans);
+
+
+        //skip duplicate
+        int i = id+1;
         temp.pop_back();
-        int j = i;
-        while(j<arr.size()-1 && arr[j] == arr[j+1]){
-            j++;
+        while(i<nums.size() &&nums[id] == nums[i]){
+            i++;
         }
-        subsets(j+1,arr,temp,ans);
-    }
-    
+        sub2(i ,nums,temp , ans);
 
+    }
 };
