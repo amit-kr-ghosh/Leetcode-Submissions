@@ -2,18 +2,18 @@ class Solution {
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;
-        vector<int> temp;
+      
 
         sort(nums.begin(),nums.end());
 
-        perm2(0 , temp , nums ,ans);
+        perm2(0 , nums ,ans);
         return ans;
         
     }
 
-    void perm2(int id , vector<int> & temp, vector<int> &nums  , vector<vector<int>> &ans){
+    void perm2(int id , vector<int> &nums  , vector<vector<int>> &ans){
         if(id == nums.size()){
-            ans.push_back(temp);
+            ans.push_back(nums);
             return;
         }
 
@@ -25,10 +25,8 @@ public:
             }
 
             st.insert(nums[i]);
-            temp.push_back(nums[i]);
             swap(nums[i],nums[id]);
-            perm2(id+1,temp,nums,ans);
-            temp.pop_back();
+            perm2(id+1,nums,ans);
             swap(nums[i],nums[id]);
 
            
