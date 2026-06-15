@@ -10,30 +10,32 @@ public:
         return ans;
     }
 
-    void sum2(int i , int tar , vector<int> &nums , vector<int> & temp , vector<vector<int>> &ans){
+    void sum2(int id , int tar , vector<int> &nums , vector<int> & temp , vector<vector<int>> &ans){
 
         if(tar == 0){
             ans.push_back(temp);
             return;
         }
 
-        if(tar <0|| i == nums.size()){
+        if(tar <0){
             return;
         }
         
 
-        //include
-        temp.push_back(nums[i]);
-        sum2(i+1,tar-nums[i],nums,temp,ans);
+        for(int i = id;i<nums.size();i++){
 
-        temp.pop_back();
-        //skip duplicate
+            if(i>id && nums[i] == nums[i-1]){
+                continue;
+            }
+             //include
+             temp.push_back(nums[i]);
+            sum2(i+1,tar-nums[i],nums,temp,ans);
+             temp.pop_back();
 
-        int   x = i+1;
-        while(x<nums.size() && nums[x] == nums[i]){
-            x++;
         }
-        sum2(x, tar,nums,temp,ans);
+
+       
+      
     }
     
 };
