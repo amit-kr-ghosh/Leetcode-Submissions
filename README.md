@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3612-process-string-with-special-operations-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [2169-simple-bank-system](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2169-simple-bank-system) |
+| [3612-process-string-with-special-operations-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
