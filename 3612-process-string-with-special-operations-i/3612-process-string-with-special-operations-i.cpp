@@ -1,9 +1,9 @@
 class Solution {
 public:
     string processStr(string s) {
-        string res;
+        string res = "";
         for(char c:s){
-            if(islower(c)){
+            if(c>='a'&&c<='z'){
                 res.push_back(c);
             }
             else if(c == '*'){
@@ -12,7 +12,7 @@ public:
                 }
             }
             else if(c == '#'){
-                res.append(res);
+                res+= res;
             }
             else if(c== '%'){
                 reverse(res.begin(),res.end());
