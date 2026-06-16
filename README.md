@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0742-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
