@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0047-permutations-ii) |
