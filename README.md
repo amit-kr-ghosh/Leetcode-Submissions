@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0742-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [2169-simple-bank-system](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2169-simple-bank-system) |
 ## Data Stream
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
