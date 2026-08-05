@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0742-to-lower-case) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0684-redundant-connection) |
 | [2121-find-if-path-exists-in-graph](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [2169-simple-bank-system](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2169-simple-bank-system) |
 ## Data Stream
@@ -368,5 +371,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
