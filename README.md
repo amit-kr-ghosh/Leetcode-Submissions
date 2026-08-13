@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/amit-kr-ghosh/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
